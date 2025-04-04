@@ -1,4 +1,7 @@
 {
+  "_comment": "Configuration for the HTTP server",
   "port": 9999,
-  "webroot": "/tmp"
+  "_port_description": "The port number on which the server listens",
+  "webroot": "/tmp",
+  "_webroot_description": "Root directory for serving web files"
 }
